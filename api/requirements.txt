@@ -1,0 +1,5 @@
+# IntelliCampus: Vercel Serverless Dependencies (Ultra-Lightweight < 35 MB)
+pymysql>=1.1.0
+cryptography>=42.0.0
+pillow>=10.0.0
+numpy>=1.26.0

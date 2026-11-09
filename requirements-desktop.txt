@@ -1,0 +1,13 @@
+# IntelliCampus: Desktop Application Dependencies (PyQt6 & Playwright)
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+playwright>=1.40.0
+pandas>=2.1.0
+plotly>=5.18.0
+pymysql>=1.1.0
+cryptography>=42.0.0
+reportlab>=4.0.0
+openpyxl>=3.1.0
+pillow>=10.0.0
+numpy>=1.26.0

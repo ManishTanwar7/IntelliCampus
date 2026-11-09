@@ -1,0 +1,8 @@
+views/
+tests/
+exports/
+run.bat
+run.ps1
+requirements-desktop.txt
+.git/
+.venv/
